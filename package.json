@@ -6,7 +6,7 @@
     "@ant-design/icons": "4.0.0",
     "antd": "^4.16.13",
     "antd-mask-input": "^0.1.15",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "axios-mock-adapter": "^1.18.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
