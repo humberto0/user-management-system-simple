@@ -3,10 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ant-design/icons": "4.0.0",
+    "antd": "^4.16.13",
+    "antd-mask-input": "^0.1.15",
     "axios": "^0.19.2",
     "axios-mock-adapter": "^1.18.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.3.0",
     "react-scripts": "3.4.1"
   },
   "scripts": {
@@ -30,6 +34,7 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^5.3.0",
     "@testing-library/react": "^10.0.2",
-    "@testing-library/user-event": "^7.1.2"
+    "@testing-library/user-event": "^7.1.2",
+    "json-server": "^0.17.0"
   }
 }

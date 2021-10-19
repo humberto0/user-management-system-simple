@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "email": "testandomuito@gmail.com",
+      "name": "HUMBERTO DE JESUS FERREIRA",
+      "phone": "98991001013",
+      "document": "78372837283",
+      "registration": "12345",
+      "id": 1
+    },
+    {
+      "email": "testando@gmail.com",
+      "name": "HUMBERTO DE JESUS FERREIRA",
+      "phone": "98991001013",
+      "document": "78372837283",
+      "registration": "1267",
+      "id": 2
+    },
+    {
+      "email": "humbertofejr@gmail.com",
+      "name": "HUMBERTO DE JESUS FERREIRA",
+      "phone": "98991001013",
+      "document": "13232312312",
+      "registration": "12312",
+      "id": 3
+    },
+    {
+      "email": "humebisjdisa@gmail.com",
+      "name": "HUMBERTO DE JESUS FERREIRA",
+      "phone": "98991001013",
+      "document": "12222233322",
+      "registration": "122",
+      "id": 4
+    },
+    {
+      "email": "emerson@gmail.com",
+      "name": "Emerson Christian bastos Ferreira",
+      "phone": "98991001013",
+      "document": "12332322231",
+      "registration": "2323",
+      "id": 6
+    }
+  ]
+}
